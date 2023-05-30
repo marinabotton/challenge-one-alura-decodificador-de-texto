@@ -70,6 +70,9 @@ body {
     padding: 30px 30px 30px 30px;
     font-family: 'Montserrat', sans-serif;
     resize: none;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
 }
 
 .conteudo__obs {
