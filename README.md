@@ -1,29 +1,43 @@
-# Decodificador de Texto
+# Descodificador de texto
 
-<h3>Sobre</h3>
-<p>Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por ele.</p>
+Bem-vindo ao projeto de criptografia de texto! Neste projeto, é possivel fazer a criptografa e descriptografa textos de acordo com algumas regras específicas.
 
-<h4>As "chaves" de criptografia utilizadas são:</h4>
-<ul>
-<li>A letra "e" é convertida para "enter."</li>
-<li>A letra "i" é convertida para "imes."</li>
-<li>A letra "a" é convertida para "ai."</li>
-<li>
-A letra "o" é convertida para "ober."</li>
-<li>
-A letra "u" é convertida para "ufat."</li>
-<ul>
+### Exemplo
+```
+"gato" => "gaitober"
+gaitober" => "gato"
+```
 
-<h4>Requisitos:</h4>
-<p>- Deve funcionar apenas com letras minúsculas.</p>
-<p>- Não devem ser utilizados letras com acentos nem caracteres especiais.</p>
-<p>- Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.</p>
+## Descrição
 
-<h4>Por exemplo:</h4>
-<p>"gato" => "gaitober"</p>
-<p>gaitober" => "gato"</p>
+A criptografia segue seguintes regras:
 
-<p>A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções
-O resultado deve ser exibido na tela.</p>
+* A letra "e" é convertida para "enter"
+* A letra "i" é convertida para "imes"
+* A letra "a" é convertida para "ai"
+* A letra "o" é convertida para "ober"
+* A letra "u" é convertida para "ufat"
 
-<h3>Objetivo do projeto</h3>Atestar e solidificar o aprendizado adquirido durante o modúlo de JavaScript, em manipulação de paginás web utilizando Java Script.
+É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+
+A página tem um campo para inserção do texto a ser criptografado ou descriptografado, e o usuário pode escolher entre as duas opções.
+
+O resultado da criptografia ou descriptografia é exibido na tela.
+
+Há botão que permite que o usuário copie o texto criptografado/descriptografado para a área de transferência, podendo colar o resultado em outro local.
+
+## Como Usar
+Para utilizar o descodificador de texto, basta seguir os seguintes passos:
+
+1. Acesse a página da aplicação [clicando aqui](https://marinabotton.github.io/challenge-one-alura-decodificador-de-texto/).
+2. Insira o texto que deseja criptografar ou descriptografar no campo correspondente.
+3. Selecione a opção de criptografia ou descriptografia.
+4. Clique no botão "Criptografar" ou "Descriptografar", dependendo da opção selecionada.
+5. O resultado da operação será exibido no lado direito da tela.
+6. Se desejar copiar o resultado para a área de transferência, clique no botão "Copiar".
+
+# Tecnologias Utilizadas
+
+* HTML
+* CSS
+* JavaScript
