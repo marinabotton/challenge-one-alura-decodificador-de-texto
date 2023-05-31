@@ -52,6 +52,6 @@ Para utilizar o descodificador de texto, basta seguir os seguintes passos:
 
 ## 🏆 Badge
 
-Recompensa de conclusão do desafio ✅✅✅
+* Recompensa de conclusão do desafio ✅✅✅
 
 ![Badge do Desafio](https://github.com/marinabotton/challenge-one-alura-decodificador-de-texto/assets/90083919/9890083f-aa2f-452d-b969-c18ffa2b4041)
