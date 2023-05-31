@@ -2,7 +2,7 @@
 
 body {
     box-sizing: border-box;
-    background-image: url("../assets/images/bg.jpg");
+    background-image: url(../assets/images/bg.jpg);
     background-size: 100%;
     color: #C50606;
 }
