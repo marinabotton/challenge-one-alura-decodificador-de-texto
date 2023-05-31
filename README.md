@@ -1,4 +1,4 @@
-# challenge-one-alura-decodificador-de-texto
+# Decodificador de Texto
 
 <h3>Sobre</h3>
 <p>Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por ele.</p>
