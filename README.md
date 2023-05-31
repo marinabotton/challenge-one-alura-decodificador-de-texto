@@ -1,4 +1,4 @@
-# Descodificador de Códigos 🔐 
+# Decodificador de Códigos 🔐 
 
 O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, onde pudesse criptografar um texto e depois descriptografar para o texto original.
 
