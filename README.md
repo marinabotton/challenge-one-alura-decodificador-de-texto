@@ -1,14 +1,18 @@
-# Descodificador de texto
+# Descodificador de Códigos 🔐 
+
+O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, onde pudesse criptografar um texto e depois descriptografar para o texto original.
+
+## ✨ Início
 
 Bem-vindo ao projeto de criptografia de texto! Neste projeto, é possivel fazer a criptografa e descriptografa textos de acordo com algumas regras específicas.
 
-### Exemplo
+### 📌 Exemplo
 ```
 "gato" => "gaitober"
 gaitober" => "gato"
 ```
 
-## Descrição
+## 📝 Descrição
 
 A criptografia segue seguintes regras:
 
@@ -26,7 +30,7 @@ O resultado da criptografia ou descriptografia é exibido na tela.
 
 Há botão que permite que o usuário copie o texto criptografado/descriptografado para a área de transferência, podendo colar o resultado em outro local.
 
-## Como Usar
+## 💻 Como Usar
 Para utilizar o descodificador de texto, basta seguir os seguintes passos:
 
 1. Acesse a página da aplicação [clicando aqui](https://marinabotton.github.io/challenge-one-alura-decodificador-de-texto/).
@@ -36,8 +40,18 @@ Para utilizar o descodificador de texto, basta seguir os seguintes passos:
 5. O resultado da operação será exibido no lado direito da tela.
 6. Se desejar copiar o resultado para a área de transferência, clique no botão "Copiar".
 
-# Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * HTML
 * CSS
 * JavaScript
+
+## 🚀 Prévia do Projeto 
+
+![Desafio](https://github.com/marinabotton/challenge-one-alura-decodificador-de-texto/assets/90083919/f8c34e09-5b0c-4178-b742-290bf0f1ce4e)
+
+## 🏆 Badge
+
+Recompensa de conclusão do desafio ✅✅✅
+
+![Badge do Desafio](https://github.com/marinabotton/challenge-one-alura-decodificador-de-texto/assets/90083919/9890083f-aa2f-452d-b969-c18ffa2b4041)
